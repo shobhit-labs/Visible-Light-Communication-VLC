@@ -27,4 +27,5 @@ This repository contains the firmware for an **Arduino-based Visible Light Commu
 3. Once the light pulse ends, the firmware calculates the duration to identify whether a `.` or `-` was received.
 4. A character gap trigger (>800ms) initiates the dictionary lookup, converting the Morse string to a character and rendering it instantly onto the LCD and Serial Monitor.
 ### 📸 Hardware Setup & Working Demo
+Project in Action[VLC Ready Display]
 <img width="3674" height="2866" alt="Image" src="https://github.com/user-attachments/assets/3ea213ac-cc59-4662-bf85-e2ae37582dba" />
